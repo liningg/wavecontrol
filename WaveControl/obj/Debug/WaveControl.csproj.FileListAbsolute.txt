@@ -1,0 +1,6 @@
+E:\ecgcode\CNSProjects\FetalHeartMonitor\bin\Debug\WaveControl.dll
+E:\ecgcode\CNSProjects\FetalHeartMonitor\bin\Debug\WaveControl.pdb
+E:\ecgcode\CNSProjects\WaveControl\WaveControl\obj\Debug\WaveControl.UserControl1.resources
+E:\ecgcode\CNSProjects\WaveControl\WaveControl\obj\Debug\WaveControl.csproj.GenerateResource.Cache
+E:\ecgcode\CNSProjects\WaveControl\WaveControl\obj\Debug\WaveControl.dll
+E:\ecgcode\CNSProjects\WaveControl\WaveControl\obj\Debug\WaveControl.pdb

@@ -1,0 +1,9 @@
+E:\ecgcode\CNSProjects\FetalHeartMonitor\bin\Debug\TestPro.exe.config
+E:\ecgcode\CNSProjects\FetalHeartMonitor\bin\Debug\TestPro.exe
+E:\ecgcode\CNSProjects\FetalHeartMonitor\bin\Debug\TestPro.pdb
+E:\ecgcode\CNSProjects\WaveControl\TestPro\obj\Debug\TestPro.csprojResolveAssemblyReference.cache
+E:\ecgcode\CNSProjects\WaveControl\TestPro\obj\Debug\TestPro.form1.resources
+E:\ecgcode\CNSProjects\WaveControl\TestPro\obj\Debug\TestPro.Properties.Resources.resources
+E:\ecgcode\CNSProjects\WaveControl\TestPro\obj\Debug\TestPro.csproj.GenerateResource.Cache
+E:\ecgcode\CNSProjects\WaveControl\TestPro\obj\Debug\TestPro.exe
+E:\ecgcode\CNSProjects\WaveControl\TestPro\obj\Debug\TestPro.pdb
